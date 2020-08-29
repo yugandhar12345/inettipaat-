@@ -1,8 +1,10 @@
 welcome source code
 add 2n line now
 add one line now 
-<<<<<<< HEAD
+
 add 2nd line now
-=======
+<<<<<<< HEAD
 add 3rd line now
->>>>>>> f1
+=======
+add 3nd line now
+>>>>>>> f2
